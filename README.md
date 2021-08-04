@@ -11,4 +11,4 @@
 
 4.如果类中有注解需要依赖注入,把注解中的值注入对象中。
 
-![未命名文件 (1)](C:\Users\22162\Downloads\未命名文件 (1).png)
+![未命名文件 (1)](https://user-images.githubusercontent.com/72901123/128160931-66a848aa-4183-4a5a-bddf-1f34dc6ee3cd.png)
