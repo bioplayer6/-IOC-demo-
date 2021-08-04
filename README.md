@@ -1,4 +1,4 @@
-本次手写Spring IOC源码,借鉴自https://www.bilibili.com/video/BV1AV411i7VH,在手写过程中,对于基于注解的Spring IOC 容器实现过程有了一定的了解,同时对于Java的反射机制有了更深的体会,手写完后感觉
+本次手写Spring IOC源码,借鉴自https://www.bilibili.com/video/BV1AV411i7VH ,在手写过程中,对于基于注解的Spring IOC 容器实现过程有了一定的了解,同时对于Java的反射机制有了更深的体会,手写完后感觉
 基础更加巩固,希望能对日后的Spring等框架的学习有更大的帮助
 
 基于注解的IOC容器实现过程:
@@ -10,3 +10,5 @@
 3.遍历BeanDefinitions通过反射动态加载类对象,并把对象装入ioc对象(map)
 
 4.如果类中有注解需要依赖注入,把注解中的值注入对象中。
+
+![未命名文件 (1)](C:\Users\22162\Downloads\未命名文件 (1).png)
